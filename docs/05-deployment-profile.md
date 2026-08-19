@@ -8,17 +8,17 @@ Devices -> Windows -> Windows enrollment -> Deployment Profiles -> Create profil
 
 ## Configuration
 
-| Setting | Value 
+| Setting | Value |
 |---|---|---|
-| Name | `Homelab_Autopilot_Demo` 
+| Name | `Homelab_Autopilot_Demo` |
 | Description | Cloud native, user driven profile for lab testing |
-| Deployment mode | User-driven 
-| Join type | Microsoft Entra joined
-| License Terms | Hide 
-| Privacy settings | Hide 
-| Hide change account options | Yes 
-| User account type | Standard
-| White Glove | No 
+| Deployment mode | User-driven |
+| Join type | Microsoft Entra joined|
+| License Terms | Hide |
+| Privacy settings | Hide |
+| Hide change account options | Yes |
+| User account type | Standard|
+| White Glove | No |
 
 ## Result
 
