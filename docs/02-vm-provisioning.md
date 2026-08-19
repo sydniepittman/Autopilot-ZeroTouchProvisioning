@@ -12,12 +12,12 @@ This project uses a separate, purpose-built VM rather than reusing an existing d
 | Secure Boot | Enabled | Windows 11 hardware requirement |
 | TPM | 2.0 | Required for the hardware hash generation in Phase 3 |
 
-"C:\Users\Sydni\OneDrive\Desktop\AD Projects\Autopilot\VMConfig.jpg"
+<img width="467" height="262" alt="VMConfig" src="https://github.com/user-attachments/assets/37b3f15b-4dd5-489f-a6ed-995c30e215d1" />
 
 ## Installation
 
 Installed from the official Windows 11 Enterprise evaluation ISO. 
 
-"C:\Users\Sydni\OneDrive\Desktop\AD Projects\ServerInstall.png"
+<img width="1025" height="760" alt="ServerInstall" src="https://github.com/user-attachments/assets/0227fff0-60ff-4d2b-a842-7217f7e7f956" />
 
 
