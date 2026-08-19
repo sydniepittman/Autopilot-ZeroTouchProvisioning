@@ -47,6 +47,6 @@ The purpose of this lab is to simulate the real-world process an IT department f
 
 - VirtualBox 7.x (with EFI/TPM 2.0/Secure Boot support)
 - Windows 11 Enterprise ISO
-- A Microsoft 365 tenant with Intune licensing (see [Phase 1](docs/01-tenant-setup.md) for how to get this for free)
+- A Microsoft 365 tenant with Intune licensing 
 
 
