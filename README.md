@@ -1,6 +1,6 @@
 # Windows Autopilot / Intune Zero-Touch Provisioning Lab
 
-A demonstration of using Windows Autopilot device registration and zero-touch previsioning through Microsoft Intune in VirtualBox.
+A demonstration of using Windows Autopilot device registration and zero-touch provisioning through Microsoft Intune in VirtualBox.
 
 ## Project Summary
 
