@@ -21,5 +21,5 @@ Intune → Deployment Profiles → Homelab_Autopilot_Demo → Assignments → In
 
 ## Result
 
-"C:\Users\Sydni\OneDrive\Desktop\AD Projects\Autopilot\DeploymentProfileAssigned.jpg"
+<img width="1578" height="810" alt="DeploymentProfileAssigned" src="https://github.com/user-attachments/assets/f5b8d4b5-3944-4d33-ae43-c5127df5fa23" />
 
