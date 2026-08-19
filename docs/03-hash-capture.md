@@ -11,9 +11,11 @@ Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force
 Install-Script -Name Get-WindowsAutoPilotInfo -Force
 Get-WindowsAutoPilotInfo.ps1 -OutputFile C:\HWID.csv
 ```
-Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force: temporarily lifts PowerShell's default script-blocking restriction so the downloaded script is allowed to run.
-Install-Script -Name Get-WindowsAutoPilotInfo -Force: downloads the `Get-WindowsAutoPilotInfo` community script from the PowerShell Gallery.
-Get-WindowsAutoPilotInfo.ps1 -OutputFile C:\HWID.csv:runs the script, querying the device's firmware/TPM to generate the hash and writing the result to a CSV formatted for direct Intune import.
+**Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force**: temporarily lifts PowerShell's default script-blocking restriction so the downloaded script is allowed to run.
+
+**Install-Script -Name Get-WindowsAutoPilotInfo -Force**: downloads the `Get-WindowsAutoPilotInfo` community script from the PowerShell Gallery.
+
+**Get-WindowsAutoPilotInfo.ps1 -OutputFile C:\HWID.csv**:runs the script, querying the device's firmware/TPM to generate the hash and writing the result to a CSV formatted for direct Intune import.
 
 ## Output
 
