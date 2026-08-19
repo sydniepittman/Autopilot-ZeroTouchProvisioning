@@ -5,7 +5,7 @@
 Returning the VM to a first-boot OOBE state after allowing time for the deplyment profile assignment to propagate.
 
 
-"C:\Users\Sydni\OneDrive\Desktop\AD Projects\Autopilot\HelloPrompt.png"
+<img width="1034" height="769" alt="HelloPrompt" src="https://github.com/user-attachments/assets/b3027603-b4ee-41ca-80fa-00bf4770a00d" />
 
 ## Result
 
@@ -18,9 +18,9 @@ Landed at a fully configured desktop:
 | Network | Connected |
 | Windows Update | Up to date |
 
-"C:\Users\Sydni\OneDrive\Desktop\AD Projects\Autopilot\SystemInfo.png"
+<img width="1031" height="762" alt="SystemInfo" src="https://github.com/user-attachments/assets/7306dbe9-bf6a-4b98-87f2-ab62142bcce9" />
 
-"C:\Users\Sydni\OneDrive\Desktop\AD Projects\Autopilot\EntraJoined.jpg"
+<img width="1547" height="479" alt="EntraJoined" src="https://github.com/user-attachments/assets/572b33c9-42d4-4544-b9e2-058d777f787d" />
 
 ## Summary of the full chain
 
