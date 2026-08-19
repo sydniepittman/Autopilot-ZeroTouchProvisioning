@@ -26,7 +26,7 @@ Device appeared in the **Windows Autopilot devices** list:
 | Group tag | *(blank — not used in this project; see notes below)* |
 | Profile status | Not assigned |
 
-"C:\Users\Sydni\OneDrive\Desktop\AD Projects\Autopilot\SyncComplete.png"
+<img width="904" height="529" alt="SyncComplete" src="https://github.com/user-attachments/assets/52e086ae-4f16-403b-8aff-bec13dcdc4d0" />
 
 
 
