@@ -9,7 +9,7 @@ Devices -> Windows -> Windows enrollment -> Deployment Profiles -> Create profil
 ## Configuration
 
 | Setting | Value |
-|---|---|---|
+|---|---|
 | Name | `Homelab_Autopilot_Demo` |
 | Description | Cloud native, user driven profile for lab testing |
 | Deployment mode | User-driven |
