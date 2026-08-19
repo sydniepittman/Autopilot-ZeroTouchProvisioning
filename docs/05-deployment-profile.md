@@ -28,3 +28,4 @@ Profile created and visible under Windows Autopilot deployment profiles:
 |---|---|---|
 | Homelab_Autopilot_Demo | Microsoft Entra joined | No |
 
+<img width="1230" height="425" alt="image" src="https://github.com/user-attachments/assets/34882af4-ccf8-463f-9882-ed8ba21088c0" />
